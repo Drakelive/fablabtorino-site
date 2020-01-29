@@ -6,7 +6,7 @@ categories: communities
 permalink: robotside
 referente: Mauro D'Ambrosi, maurodambrosi82@hotmail.it
 copertina: communities/RobotSide.jpg
-quando: tutti i Venerdì sera dalle 19:30
+quando: tutti i Mercoledì sera dalle 19:30
 facebook: https://www.facebook.com/groups/502831733527385/
 meta: la community più giovane del FablabTO, ma per tanti è già un appuntamento fisso per parlare e sperimentare con la robotica ogni settimana
 ---
